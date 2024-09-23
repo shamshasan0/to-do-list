@@ -2,4 +2,4 @@
 
 ## IN PROGRESS
 
-A serverless to-do-list app using AWS cloud services + frontend tools
+Serverless to-do-list app using AWS cloud services + frontend tools
